@@ -1,1 +1,1 @@
-# Traductor
+# Traductor en lenguajes y automatas
